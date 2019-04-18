@@ -1,0 +1,5 @@
+# fix UTF8 issue brough up inmatplotlib
+export LANG=en_US.UTF-8; export LC_ALL=en.UTF-8
+
+# bring up ipython notebook
+jupyter notebook&
